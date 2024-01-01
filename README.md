@@ -1,2 +1,4 @@
 # ImJDoe
-developed previously, intro website for J Doe
+developed previously, intro website for J Doe 
+<br>
+old Responsive website
